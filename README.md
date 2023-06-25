@@ -11,9 +11,10 @@ sites instead of the default ones
 but the default ones are still there
 
 Doogle v1.1.1
-I dont know if this is how you use versions
+I don't know if this is how you use versions
 but how cares well I forgot to add some stuff
-and I will fix the version number thing
+and I will fix the version number thing wait 
+Google says I am doing it right
 
 Doogle v1.2 Comming soon Functions
 1. data saving
