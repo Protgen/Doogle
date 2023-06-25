@@ -168,7 +168,7 @@ h1, h3, h6{
 #menutest{
     background-color: rgb(64, 64, 64);
     position: absolute;
-    min-height: 97%;
+    min-height: 90%;
     padding:10px 0 0 0;
     margin:0 auto;
     float:left;
@@ -180,4 +180,19 @@ ul{
    padding:0;
    overflow:hidden;
     text-align:center;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#bottom{
+    position: absolute;
+    float: right;
+    text-align: left;
+    width: 1230px;
+    background-color: rgb(64, 64, 64);
 }
