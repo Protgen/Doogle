@@ -3,7 +3,12 @@ body{
     background-color: rgb(54, 54, 54);
 }
 
-h1, h3, h6{
+h1, h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -168,18 +173,18 @@ h1, h3, h6{
 #menutest{
     background-color: rgb(64, 64, 64);
     position: absolute;
-    min-height: 90%;
+    min-height: 100%;
     padding:10px 0 0 0;
     margin:0 auto;
     float:left;
-    width:100px;
+    width:80px;
 }
 
 ul{
    margin:0 auto;
    padding:0;
    overflow:hidden;
-    text-align:center;
+   text-align:center;
 }
 
 a{
@@ -190,9 +195,9 @@ a{
 }
 
 #bottom{
+    background-color: rgb(44, 44, 44);
     position: absolute;
     float: right;
     text-align: left;
     width: 1230px;
-    background-color: rgb(64, 64, 64);
 }
