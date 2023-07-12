@@ -108,3 +108,7 @@ function loadButtons() {
 document.addEventListener("DOMContentLoaded", function() {
   loadButtons();
 });
+
+function game(){
+  window.location.replace("index2.html")
+}

@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Doogle Click</title>
+        <link rel="stylesheet" href="style2.css">
+        <script src="script2.js"></script>
+    </head>
+    <body>
+        <img src="Doogle Click.png">
+        <h2>Welcome to Doogle Click</h2>
+        <p>How to play: First, click the button below to earn money. With that money, you can buy upgrades that help you earn more money. Start the game below.</p>
+        <div id="game">
+            <img src="doge.png">
+            <br>
+            <br>
+            <button id="clickme" onclick="masuno()">Click Me</button>
+            <div id="buymenu">
+                <h4>Shop:</h4>
+                <h6 id="money">Money: 0</h6>
+                <button onclick="cps1()" class="upgrade">+1 money per click</button>
+                <h6 id="cps1c">Cost: 10 Money</h6>
+                <button onclick="cps10()" class="upgrade">+10 money per click</button>
+                <h6 id="cps10c">Cost: 100 Money</h6>
+                <button onclick="cps100()" class="upgrade">+100 money per click</button>
+                <h6 id="cps100c">Cost: 1000 Money</h6>
+            </div>
+        </div>
+        <br>
+        <button onclick="home()">Home</button>
+        <button onclick="reset()">Reset Game</button>
+    </body>
+</html>
