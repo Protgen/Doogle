@@ -17,9 +17,13 @@ Added data saving and nothing else.
 I was very lazy to do more.
 
 Doogle v1.1.5
-Added Doogle click. 
+Added Doogle Clicker. 
 Still too lazy to do more.
 
-Doogle v1.1.6 Coming soon Functions
+Doogle v1.1.6 (Not Raleased)
+CSS for Doogle Clicker
+CSS bug fix
+
+Coming soon Functions
 1. Changeable background color and images
 2. Changeable background color for the left menu
