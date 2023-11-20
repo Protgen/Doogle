@@ -3,7 +3,7 @@
 Kind of a mix of Opera GX and Google
 Link: https://protgen.github.io/Doogle/
 
-Doogle §5 v1.1.1
+Doogle v1.1.1
 The first version of Doogle logo and code
 
 Doogle v1.1.2
