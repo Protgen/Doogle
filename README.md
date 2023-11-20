@@ -1,4 +1,4 @@
-# Doogle 
+# Doogle Versions & Functions 
 
 Kind of a mix of Opera GX and Google
 Link: https://protgen.github.io/Doogle/
