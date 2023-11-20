@@ -24,6 +24,10 @@ Doogle v1.1.6 (Not Raleased)
 CSS for Doogle Clicker
 CSS bug fix
 
-Coming soon Functions
+Not Confirmed Functions
 1. Changeable background color and images
 2. Changeable background color for the left menu
+
+Confirmed Functions
+1. CSS Upgrade
+2. Buttons and stuff position change
